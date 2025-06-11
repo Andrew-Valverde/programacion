@@ -9,3 +9,8 @@ Para poder correr este programa descarga el folder "Programacion" y sigue los si
 5. Selecione la opcion de "Open with Live Server" La pagina web se abrira en el puerto 5000 o 5001
 
 Proyecto UACA - Andrew Valverde
+
+Subir a github: 
+1. git add . 
+2. git commit -m "Clase #XX
+3. git push
